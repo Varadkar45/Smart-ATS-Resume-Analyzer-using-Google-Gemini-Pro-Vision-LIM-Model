@@ -43,12 +43,11 @@ aws configure
 npm install -g serverless
 serverless deploy
 ```
-
 3. Your API will be deployed on AWS and can be accessed via API Gateway.
 
-###📸 Screenshots
+## **📸 Screenshots**
 (Include images here for better understanding)
 
-###📜 License
+## **📜 License**
 MIT License - Feel free to use and contribute!
 
