@@ -10,7 +10,8 @@ Resume ATS Analyzer evaluates resumes against job descriptions using AI, identif
 ## **🛠️ Tech Stack**  
 - **Python** (NLP & data processing)  
 - **Streamlit** (Web UI)  
-- **spaCy** / **NLTK** (Text processing)  
+- **PyPDF2** / **pdf2image** (PDF text & image extraction)
+- **Google Gemini AI API** (LLM for resume analysis)
 - **AWS Lambda + API Gateway** (Optional: Deploy as a serverless API)  
 
 ## **⚙️ Installation & Usage**  
