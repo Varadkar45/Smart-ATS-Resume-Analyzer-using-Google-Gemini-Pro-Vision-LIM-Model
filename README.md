@@ -19,17 +19,32 @@ Resume ATS Analyzer evaluates resumes against job descriptions using AI, identif
 ```bash
 git clone https://github.com/yourusername/resume-ats-scanner.git
 cd resume-ats-scanner
+```
 
 ### **2️⃣ Install Dependencies**  
 ```bash
 pip install -r requirements.txt
+```
 
 ### **3️⃣ Run the Application**  
 ```bash
 streamlit run app.py
+```
 
 ### 🔗 Deploy to AWS (Optional)
 You can deploy this project to AWS Lambda + API Gateway for cloud-based resume parsing. See this guide for steps.
+Steps for AWS Deployment:
+1. Install AWS CLI & configure credentials:
+```bash
+aws configure
+```
+2. Package the application using serverless framework:
+```bash
+npm install -g serverless
+serverless deploy
+```
+
+3. Your API will be deployed on AWS and can be accessed via API Gateway.
 
 ###📸 Screenshots
 (Include images here for better understanding)
