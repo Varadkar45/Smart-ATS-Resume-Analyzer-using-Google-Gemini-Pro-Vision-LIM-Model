@@ -47,8 +47,11 @@ serverless deploy
 3. Your API will be deployed on AWS and can be accessed via API Gateway.
 
 ## **📸 Screenshots**
-(Include images here for better understanding)
-![Resume Analysis](images/Imagetotext_1.jpg)
+1. Image->Bytes
+![pdf2img](images/Imagetotext_1.jpg)
+
+2. Pdf->Text
+![PyPdf2](images/DirectText_2.jpg)
 
 ## **📜 License**
 MIT License - Feel free to use and contribute!
