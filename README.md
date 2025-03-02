@@ -48,6 +48,7 @@ serverless deploy
 
 ## **📸 Screenshots**
 (Include images here for better understanding)
+![Resume Analysis](images/Imagetotext_1.jpg)
 
 ## **📜 License**
 MIT License - Feel free to use and contribute!
